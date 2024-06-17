@@ -1,0 +1,30 @@
+hi
+my name is
+doggu pso
+my name is
+lsd
+write a program to print the following pattern
+*
+**
+***
+****    
+
+write a program to print the following pattern
+****
+***
+**
+*
+
+write a program to print the following pattern
+   *
+  **
+ ***
+
+write a program to print the following pattern
+   *
+  ***
+    *****
+        *******
+        
+github link
+my name is
